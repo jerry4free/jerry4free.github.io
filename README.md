@@ -1,2 +1,2 @@
 
-This is my pages.
+This is my pages in which show what i learned.
